@@ -98,3 +98,4 @@ console.log(deleteFruit)
 // fruits.splice(0, 2)
 console.log(fruits.includes('cherry'))
 
+//vdfvdjfvjdhvhjdfvhdfvjhbchdchjdbfhbvhddcbdhcbdhfvdfvdfvd
